@@ -1,0 +1,333 @@
+{
+  "posts": [
+    {
+      "date": "JANUARY 08 2019",
+      "title": "ASP.NET Core 2.2 - Role Based Authorization Tutorial with Example API",
+      "intro": "How to build an API with role based authorization / access control in ASP.NET Core 2.2 & C#. Includes example client apps built with Angular, React and Vue.",
+      "id": 1,
+      "desc": "...",
+      "author": "****"
+    },
+    {
+      "date": "DECEMBER 06 2018",
+      "title": "Deploy to Heroku - Node + Mongo API for Authentication, Registration and User Management",
+      "intro": "A quick tutorial to go through the steps to deploy a Node.js + MongoDB Authentication API to the Heroku Cloud and test it with Postman.",
+      "id": 2,
+      "desc": "...",
+      "author": "****"
+    },
+    {
+      "date": "NOVEMBER 28 2018",
+      "title": "Node.js - Role Based Authorization Tutorial with Example API",
+      "intro": "How to build an API with role based authorization / access control in Node.js & JavaScript. Includes example client apps built with Angular, React and Vue.",
+      "id": 3,
+      "desc": "...",
+      "author": "****"
+    },
+    {
+      "date": "NOVEMBER 22 2018",
+      "title": "Angular 7 - Role Based Authorization Tutorial with Example",
+      "intro": "A Custom Authentication and Role Based Authorization / Access Control Example built with Angular 7, TypeScript and Webpack 4",
+      "id": 4,
+      "desc": "...",
+      "author": "****"
+    },
+    {
+      "date": "NOVEMBER 16 2018",
+      "title": "Angular 7 - JWT Authentication Example & Tutorial",
+      "intro": "A Custom JWT Authentication Example built with Angular 7, TypeScript and Webpack 4",
+      "id": 5,
+      "desc": "...",
+      "author": "****"
+    },
+    {
+      "date": "NOVEMBER 10 2018",
+      "title": "Angular 7 - Template-Driven Forms Validation Example",
+      "intro": "A quick example of how to implement validation in Angular 7 using Template-Driven Forms. The example is a simple registration form that validates on submit, and includes a custom validator that validates password & confirm password fields match..",
+      "id": 6,
+      "desc": "...",
+      "author": "****"
+    },
+    {
+      "date": "NOVEMBER 07 2018",
+      "title": "Angular 7 - Reactive Forms Validation Example",
+      "intro": "A quick example of how to implement validation in Angular 7 using Reactive Forms. The example is a simple registration form that validates on submit, and includes a custom validator that validates password & confirm password fields match.",
+      "id": 7,
+      "desc": "...",
+      "author": "****"
+    },
+    {
+      "date": "OCTOBER 29 2018",
+      "title": "Angular 7 - User Registration and Login Example & Tutorial",
+      "intro": "Tutorial with example of how to implement user registration and login functionality with Angular 7, TypeScript and Webpack 4",
+      "id": 8,
+      "desc": "...",
+      "author": "****"
+    },
+    {
+      "date": "OCTOBER 17 2018",
+      "title": "C# - Pure Pagination Logic in C# / ASP.NET",
+      "intro": "Pure pagination logic written in C# / ASP.NET and available on NuGet. Compatible with ASP.NET Core and ASP.NET Standard projects.",
+      "id": 9,
+      "desc": "...",
+      "author": "****"
+    },
+    {
+      "date": "OCTOBER 15 2018",
+      "title": "ASP.NET Core Razor Pages - Pagination Example",
+      "intro": "An example of how to add pagination to your ASP.NET Core 2.1 Razor Pages application.",
+      "id": 10,
+      "desc": "...",
+      "author": "****"
+    },
+    {
+      "date": "APRIL 24 2019",
+      "title": "Angular 7 Tutorial Part 2 - Create Base Project Structure & Webpack Config",
+      "id": 11,
+      "desc": "...",
+      "author": "****"
+    },
+    {
+      "date": "APRIL 16 2019",
+      "title": "Angular 7 - Custom Modal Window / Dialog Box",
+      "intro": "Simple Modal Window in Angular 7. Custom example without the need for 3rd party libraries.",
+      "id": 12,
+      "desc": "...",
+      "author": "****"
+    },
+    {
+      "date": "APRIL 10 2019",
+      "title": "React + Formik - Form Validation Example",
+      "intro": "Quick example of how to setup form validation in React with the Formik library",
+      "id": 13,
+      "desc": "...",
+      "author": "****"
+    },
+    {
+      "date": "APRIL 06 2019",
+      "title": "React (without Redux) - JWT Authentication Tutorial & Example",
+      "intro": "A Custom JWT Authentication Example built with React (without Redux) and Webpack 4",
+      "id": 14,
+      "desc": "...",
+      "author": "****"
+    },
+    {
+      "date": "APRIL 02 2019",
+      "title": "Vue.js + RxJS - Communicating Between Components with Observable & Subject",
+      "intro": "A quick tutorial and example of how to communicate between components in Vue.js using RxJS Observable and Subject",
+      "id": 15,
+      "desc": "...",
+      "author": "****"
+    },
+    {
+      "date": "MARCH 08 2019",
+      "title": "Vue.js - Role Based Authorization Tutorial with Example",
+      "intro": "A Custom Authentication and Role Based Authorization / Access Control Example built with Vue.js and Webpack 4",
+      "id": 16,
+      "desc": "...",
+      "author": "****"
+    },
+    {
+      "date": "FEBRUARY 27 2019",
+      "title": "Vue.js + Vuelidate - Form Validation Example",
+      "intro": "Quick example of how to setup form validation in Vue.js with the Vuelidate library",
+      "id": 17,
+      "desc": "...",
+      "author": "****"
+    },
+    {
+      "date": "FEBRUARY 13 2019",
+      "title": "React + RxJS - Communicating Between Components with Observable & Subject",
+      "intro": "A quick tutorial and example of how to communicate between components in React using RxJS Observable and Subject",
+      "id": 18,
+      "desc": "...",
+      "author": "****"
+    },
+    {
+      "date": "FEBRUARY 07 2019",
+      "title": "Angular 7 - Communicating Between Components with Observable & Subject",
+      "intro": "A quick tutorial and example of how to communicate between components in Angular 7 using the RxJS Observable and Subject classes",
+      "id": 19,
+      "desc": "...",
+      "author": "****"
+    },
+    {
+      "date": "FEBRUARY 01 2019",
+      "title": "React - Role Based Authorization Tutorial with Example",
+      "intro": "A Custom Authentication and Role Based Authorization / Access Control Example built with React and Webpack 4",
+      "id": 20,
+      "desc": "...",
+      "author": "****"
+    },
+    {
+      "date": "SEPTEMBER 26 2018",
+      "title": "Setup Node.js + MongoDB Production Server on Ubuntu 18.04",
+      "intro": "Scripts for automatically setting up a production web server with Node.js 10.x, MongoDB 4.0, PM2 and NGINX on Ubuntu 18.04",
+      "id": 21,
+      "desc": "...",
+      "author": "****"
+    },
+    {
+      "date": "SEPTEMBER 24 2018",
+      "title": "NodeJS - Basic Authentication Tutorial with Example API",
+      "intro": "How to implement Basic HTTP Authentication in Node.js with JavaScript. Includes example client apps built with React, Angular & Vue.",
+      "id": 22,
+      "desc": "...",
+      "author": "****"
+    },
+    {
+      "date": "SEPTEMBER 21 2018",
+      "title": "Vue.js - Basic HTTP Authentication Tutorial & Example",
+      "intro": "A Custom Basic HTTP Authentication Example built with Vue.js 2, JavaScript and Webpack 4",
+      "id": 23,
+      "desc": "...",
+      "author": "****"
+    },
+    {
+      "date": "SEPTEMBER 11 2018",
+      "title": "React - Basic HTTP Authentication Tutorial & Example",
+      "intro": "A Custom Basic HTTP Authentication Example built with React 16, JavaScript and Webpack 4",
+      "id": 24,
+      "desc": "...",
+      "author": "****"
+    },
+    {
+      "date": "SEPTEMBER 10 2018",
+      "title": "Vue.js - Set, Get & Delete Reactive Nested Object Properties",
+      "intro": "A few simple functions for setting, getting and deleting properties of complex / nested objects in Vue.js",
+      "id": 25,
+      "desc": "...",
+      "author": "****"
+    },
+    {
+      "date": "SEPTEMBER 08 2018",
+      "title": "ASP.NET Core 2.2 - Basic Authentication Tutorial with Example API",
+      "intro": "UPDATED Jan 18, 2019 to ASP.NET Core 2.2 - How to implement Basic HTTP Authentication in ASP.NET Core 2.2 with C#. Includes example client apps built with Angular, React and Vue.js.",
+      "id": 26,
+      "desc": "...",
+      "author": "****"
+    },
+    {
+      "date": "SEPTEMBER 07 2018",
+      "title": "Angular 6 - Basic HTTP Authentication Tutorial & Example",
+      "intro": "A Custom Basic HTTP Authentication Example built with Angular 6, TypeScript and Webpack 4",
+      "id": 27,
+      "desc": "...",
+      "author": "****"
+    },
+    {
+      "date": "AUGUST 14 2018",
+      "title": "ASP.NET Core 2.2 - JWT Authentication Tutorial with Example API",
+      "intro": "UPDATED Jan 8, 2019 to ASP.NET Core 2.2 - How to implement JWT authentication in ASP.NET Core 2.2 with C#. Includes example client apps built with React, Angular & Vue.",
+      "id": 28,
+      "desc": "...",
+      "author": "****"
+    },
+    {
+      "date": "AUGUST 07 2018",
+      "title": "JavaScript - Pure Pagination Logic in Vanilla JS / TypeScript",
+      "intro": "Pure pagination logic written in JavaScript and available on npm",
+      "id": 29,
+      "desc": "...",
+      "author": "****"
+    },
+    {
+      "date": "AUGUST 06 2018",
+      "title": "NodeJS - JWT Authentication Tutorial with Example API",
+      "intro": "How to implement JWT authentication in Node with JavaScript. Includes example client apps built with React, Angular & Vue.",
+      "id": 30,
+      "desc": "...",
+      "author": "****"
+    },
+    {
+      "date": "AUGUST 01 2018",
+      "title": "Vue.js + VeeValidate - Form Validation Example",
+      "intro": "Quick example of how to setup form validation in Vue.js with the VeeValidate library",
+      "id": 31,
+      "desc": "...",
+      "author": "****"
+    },
+    {
+      "date": "JULY 16 2018",
+      "title": "Terraform - Create Security Groups for AWS Cloudfront IP Ranges",
+      "intro": "Terraform configuration to generate AWS security groups with ingress rules that allow traffic from Cloudfront IP ranges",
+      "id": 32,
+      "desc": "...",
+      "author": "****"
+    },
+    {
+      "date": "JULY 14 2018",
+      "title": "Vue.js + Vuex - User Registration and Login Tutorial & Example",
+      "intro": "Tutorial with example of how to implement user registration and login functionality with Vue.js, Vuex and Webpack 4",
+      "id": 33,
+      "desc": "...",
+      "author": "****"
+    },
+    {
+      "date": "JULY 06 2018",
+      "title": "Vue.js + Vuex - JWT Authentication Tutorial & Example",
+      "intro": "Tutorial on how to implement JWT Login Authentication with Vue.js and Vuex, including a working demo login page.",
+      "id": 34,
+      "desc": "...",
+      "author": "****"
+    },
+    {
+      "date": "JUNE 26 2018",
+      "title": "ASP.NET Core 2.2 - Simple API for Authentication, Registration and User Management",
+      "intro": "UPDATED Jan 14, 2019 to ASP.NET Core 2.2 - A clean and simple custom ASP.NET Core API for User Registration, Login with JWT Authentication and User Management.",
+      "id": 35,
+      "desc": "...",
+      "author": "****"
+    },
+    {
+      "date": "JUNE 25 2018",
+      "title": "Angular 6 - Communicating Between Components with Observable & Subject",
+      "intro": "A quick tutorial and example of how to communicate between components in Angular 6 using the Observable and Subject classes",
+      "id": 36,
+      "desc": "...",
+      "author": "****"
+    },
+    {
+      "date": "JUNE 22 2018",
+      "title": "Angular 6 - Mock Backend Example for Backendless Development",
+      "intro": "An example of Backendless development with Angular 6 and TypeScript, including 'pass through' for selected urls to a real backend.",
+      "id": 37,
+      "desc": "...",
+      "author": "****"
+    },
+    {
+      "date": "JUNE 14 2018",
+      "title": "NodeJS + MongoDB - Simple API for Authentication, Registration and User Management",
+      "intro": "A clean and simple custom NodeJS API for Login, Registration and User Management.",
+      "id": 38,
+      "desc": "...",
+      "author": "****"
+    },
+    {
+      "date": "JUNE 01 2018",
+      "title": "Angular 2+ Social Sharing Buttons for Facebook, Google Plus, Twitter, LinkedIn and Pinterest",
+      "intro": "Social sharing buttons for Angular 2+ available on npm. Buttons include Facebook Like, Google Plus, Twitter, LinkedIn and Pinterest.",
+      "id": 39,
+      "desc": "...",
+      "author": "****"
+    },
+    {
+      "date": "MAY 25 2018",
+      "title": "Angular 6 - Custom Modal Window / Dialog Box",
+      "intro": "Simple Modal Window in Angular 6. Custom example without the need for 3rd party libraries.",
+      "id": 40,
+      "desc": "...",
+      "author": "****"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
